@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/heroes-app-react/static/css/main.9edf8100.chunk.css",
+    "main.js": "/heroes-app-react/static/js/main.ab12718f.chunk.js",
+    "main.js.map": "/heroes-app-react/static/js/main.ab12718f.chunk.js.map",
+    "runtime-main.js": "/heroes-app-react/static/js/runtime-main.15de2be5.js",
+    "runtime-main.js.map": "/heroes-app-react/static/js/runtime-main.15de2be5.js.map",
+    "static/js/2.e81f828f.chunk.js": "/heroes-app-react/static/js/2.e81f828f.chunk.js",
+    "static/js/2.e81f828f.chunk.js.map": "/heroes-app-react/static/js/2.e81f828f.chunk.js.map",
+    "static/js/3.c1518a80.chunk.js": "/heroes-app-react/static/js/3.c1518a80.chunk.js",
+    "static/js/3.c1518a80.chunk.js.map": "/heroes-app-react/static/js/3.c1518a80.chunk.js.map",
+    "index.html": "/heroes-app-react/index.html",
+    "static/css/main.9edf8100.chunk.css.map": "/heroes-app-react/static/css/main.9edf8100.chunk.css.map",
+    "static/js/2.e81f828f.chunk.js.LICENSE.txt": "/heroes-app-react/static/js/2.e81f828f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/heroes-app-react/static/media/fondoHome.c05955be.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15de2be5.js",
+    "static/js/2.e81f828f.chunk.js",
+    "static/css/main.9edf8100.chunk.css",
+    "static/js/main.ab12718f.chunk.js"
+  ]
+}
